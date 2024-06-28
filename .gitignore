@@ -1,0 +1,11 @@
+# temp files
+*.temp
+.*.temp
+*.tmp
+.*.tmp
+
+# Ignore Folder
+core-framework/
+out/
+logs/
+tools/
