@@ -1,0 +1,13 @@
+# MIT License
+# Copyrights (c) 2024, VisorFolks Team
+#
+# File Name		: ibex-small
+# Description		: Provides configs for ibex small core
+# Primary Author	: Akash Kollipara [akashkollipara@gmail.com]
+# Organisation		: VisorFolks
+#
+
+IBEX_CONFIG	:= small
+TARGET		:= sim
+CORE_FRAMEWORK	:= ibex
+IBEX_SYSTEM	:= ibex_simple_system

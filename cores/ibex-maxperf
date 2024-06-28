@@ -1,0 +1,15 @@
+#
+# MIT License
+# Copyrights (c) 2024, VisorFolks Team
+#
+# File Name		: ibex-maxperf
+# Description		: Provides configs for ibex maxperf core
+# Primary Author	: Akash Kollipara [akashkollipara@gmail.com]
+# Organisation		: VisorFolks
+#
+
+
+IBEX_CONFIG	:= maxperf
+TARGET		:= sim
+CORE_FRAMEWORK	:= ibex
+IBEX_SYSTEM	:= ibex_simple_system
