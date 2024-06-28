@@ -10,6 +10,7 @@
 IBEX_REPO	:= https://github.com/lowRISC/ibex.git
 IBEX_PATH	:= $(CF_ROOT)/core-framework/ibex/
 IBEX_PYENV	:= $(TOOLS_ROOT)/pyenv/
+ACT_PYENV	:= source $(CF_ROOT)/tools/pyenv/bin/activate
 
 T_ALLOWLIST	+= get_ibex
 
