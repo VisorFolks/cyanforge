@@ -1,2 +1,2 @@
 # CyanForge
-~An opensource utility to build simulation cores~
+_An opensource utility to build simulation cores_
