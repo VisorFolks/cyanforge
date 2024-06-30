@@ -9,6 +9,11 @@ Connect with us over VisorFolks discord server
 ### Getting Started
 Currently, this framework support ibex core. The sources for core are fetched while performing the build.
 
+Install pre-requisites [OS: Ubuntu]:
+```shell
+sudo apt install verilator gtkwave build-essential python3 python3-pip python3-venv libelf-dev srecord
+```
+
 To check the available cores to build, run:
 ```shell
 make list
