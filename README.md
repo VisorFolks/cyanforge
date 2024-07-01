@@ -1,5 +1,16 @@
-# Cyanforge
-_An open-source utility to build simulation cores_
+<h1>
+  <div align="center">
+    <a href="https://github.com/VisorFolks/cyanforge">
+      <img align="top" src="https://github.com/VisorFolks/vf_artifacts/blob/stable/cyanforge/icons/cyanforge.png"
+           alt="Cyanforge"/>
+    </a>
+  </div>
+</h1>
+<body>
+  <div align="center">
+    <i>An open-source utility to build and simulate cores ...</i><br>
+    </div>
+</body>
 
 
 ### Join VisorFolks Community Forum
